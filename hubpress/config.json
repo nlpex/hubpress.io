@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   },
   "urls": {
     "site": "https://nlpex.github.io",
     "hubpress": "https://nlpex.github.io",
-    "theme": "//nlpex.github.io/themes/casper",
+    "theme": "//nlpex.github.io/themes/Casper",
     "images": "https://nlpex.github.io/images"
   },
   "site": {
