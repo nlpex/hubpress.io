@@ -2,9 +2,38 @@
   "meta": {
     "username": "nlpex",
     "repositoryName": "nlpex.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "Casper"
+  },
+  "urls": {
+    "site": "https://nlpex.github.io",
+    "hubpress": "https://nlpex.github.io",
+    "theme": "//nlpex.github.io/themes/casper",
+    "images": "https://nlpex.github.io/images"
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "UA-69723762-3",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
